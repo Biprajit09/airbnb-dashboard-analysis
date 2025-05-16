@@ -10,7 +10,7 @@ This project presents a comprehensive **Power BI dashboard** for analyzing Airbn
 
 Summarizes high-level metrics like total listings, average price, top cities, and most common room types.
 
-![Overview Dashboard](images/Screenshot%202025-05-15%20203442.png)
+![Overview Dashboard](Screenshot%202025-05-15%20203442.png)
 
 ---
 
@@ -18,7 +18,7 @@ Summarizes high-level metrics like total listings, average price, top cities, an
 
 Provides a detailed look at listing distribution by property type, availability, reviews, and geographic spread.
 
-![Property Analysis Dashboard](images/Screenshot%202025-05-15%20203522.png)
+![Property Analysis Dashboard](Screenshot%202025-05-15%20203522.png)
 
 ---
 
@@ -26,7 +26,7 @@ Provides a detailed look at listing distribution by property type, availability,
 
 Explores pricing trends across room types, cities, availability, and reviews to identify pricing strategies.
 
-![Price Analysis Dashboard](images/Screenshot%202025-05-15%20203603.png)
+![Price Analysis Dashboard](Screenshot%202025-05-15%20203603.png)
 
 ---
 
@@ -34,7 +34,7 @@ Explores pricing trends across room types, cities, availability, and reviews to 
 
 Analyzes host performance including number of listings, average ratings, and most active hosts.
 
-![Host Analysis Dashboard](images/Screenshot%202025-05-15%20203630.png)
+![Host Analysis Dashboard](Screenshot%202025-05-15%20203630.png)
 
 ---
 
